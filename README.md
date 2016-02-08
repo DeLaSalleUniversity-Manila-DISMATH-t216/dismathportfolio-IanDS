@@ -41,3 +41,9 @@
      2nd step: Show that step 1 will lead to a contradiction
      3rd step: Therefore, statement p is true
 
+# Week 5
+- We solved examples about the previous types of proof.
+- We learned Mathematical Induction
+     1st step: Called "Basis Step." Substitute the first parameter in the statement.
+     2nd step and 3rd Step: Similar to a Direct proof. Assume that P(k) is true. Then, show that P(k+1) is true by substituting P(k). This will now prove that the statement is true for all values.
+- We learned Recursive/Inductive defnition, which is similar to mathematical induction, but it is just a definition and not a proof.
